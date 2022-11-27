@@ -10,7 +10,7 @@
 - Mysql 
 - C#
 
->Javascript
+# Javascript
 
 마우스 올리면 onmouseover 마우스 나가면 onmouseout
 
