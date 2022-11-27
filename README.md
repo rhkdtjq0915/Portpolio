@@ -53,12 +53,12 @@ form
 required 
 * 속성 뿐이지만 브라우져는 필수 입력으로 알고 값을 검증한다. 사용자가 올바로 입력하고 제출하기 버튼을 클릭한다면 기대한 것처럼 서버로 폼을 전송한다.
 
-<input type email>
-<form>
-  <!-- required 속성을 추가했다 -->
-  <input name="email" required />
-  <button type="submit">제출</button>
-</form>
+.<input type email>
+.<form>
+  .<!-- required 속성을 추가했다 -->
+  .<input name="email" required />
+  .<button type="submit">제출</button>
+.</form>
 
 GCP는 데이터 분석 및 AI 기술에 강점을 보이는 듯합니다. 
 1. 다른 MS 서비스 및 제품과 일관된 통합
