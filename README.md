@@ -17,9 +17,7 @@
 |HTML + CSS|![circus](https://user-images.githubusercontent.com/80075223/204135538-94a28d03-c4bb-46a0-ab97-b58c9be3c9e4.PNG)
 |Javascript|![safe](https://user-images.githubusercontent.com/80075223/204135550-8d75aac5-2be0-45c0-a0f4-a253d9d71acb.PNG)
 |C#|![캡처3](https://user-images.githubusercontent.com/80075223/204135845-e31577f4-5efe-4f10-a985-a3591c350694.PNG)
+   
+GITHUB [here](https://rhkdtjq0915.github.io/Portpolio/)
 
-GITHUB     
-click [here](https://rhkdtjq0915.github.io/Portpolio/)
-
-NETLIFY
-click [here](https://cerulean-blini-40f9b7.netlify.app)
+NETLIFY [here](https://cerulean-blini-40f9b7.netlify.app)
