@@ -33,6 +33,87 @@ eval 수식을 적어 놓으면 계산해주는 함수
 parseint문자를 숫자로 바꿔주는 함수
 isNaN 숫자가 아닌가 묻는 함수 맞으면 TURE 아니면 FALSE
 
+-------------------------------------------------------
+파라미터에 함수가 들어갈 수 있음(1급 함수)
+
+객체
+Class -> Object
+명사, 동사
+명사property, member variable, field
+동사function, methon
+
+Class
+   변수 3개, 함수 2개
+Object1, Object2,  Object3
+OOP Object Oriented Programming 
+
+코어 객체
+자바스크립트 언어가 실행되는 어디서나 사용 가능 기본 객체
+Array, date, string, math
+객체와 멤버 사이에 점(.)연산자 이용
+
+tml dom객체
+html문서에 작성된 각 html 태그들을 객체화
+
+배열
+여려 개의 원소들을 연속적으로 저장
+전체를 하나의 단위로 다루는 데이터 구조
+배열은 []로 생성해도 array객체로 다뤄짐
+concat 연결
+
+브라우저 객체
+
+(중요)
+프롬프티 메소드 2가지가 있음
+사용자 객체 만들기
+1.직접 객체 만들기
+new 
+ Object()이용
+리터럴 표기법 이용
+2.객체의 틀()
+
+----------------------------------------------
+HTML DOM
+웹페이지에 작성된 GTML 태그 당 객체 생성
+
+HTML DOM 트리
+HTML태그의 포함관계에 따라 dom 객체의 트리 생성
+DOM 트리는 부모 자식 관계
+
+DOM 객체
+DOM 트리의 한 노드
+HTML 태그 당 하나의 DOM 객체 생성
+
+dom트리에서 하나씩 찍어주는것 렌더링
+
+리엑트
+
+DOM 트리의 특징
+브라우저가 html 태그를 화면에 그리는 과정
+
+렌더트리
+Browser의 Rendering_2. Render Tree의 생성 https://twofivezero.tistory.com/56
+
+태그 콘텐츠 합쳐서 엘리멘트
+html 태그
+
+dom객체의 프로퍼티와 dom 객체사이의 관계
+
+com객체 다루기
+
+this
+
+document 객체
+
+dom 트리에서 dom 객체 찾기
+
+document.write()
+
+open() close()
+
+문서의 동적 구성
+
+
 |Feature|Description|
 |:--:|:--:|
 |PHP|![cabin](https://user-images.githubusercontent.com/80075223/204135520-c9e038f4-a4c2-4fe8-af83-963f47539d4a.PNG)
