@@ -9,6 +9,7 @@
 - PHP
 - Mysql 
 - C#
+- Typescript
 
 # HTML+CSS
 
