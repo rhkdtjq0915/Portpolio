@@ -198,6 +198,9 @@ open() close()
 
 문서의 동적 구성
 
+----------------------------------------------------------------
+버튼 누르면 파일 다운로드 가능한 명령어
+<a href="" download=""><button>↓ Free Download</button>
 
 |Feature|Description|
 |:--:|:--:|
