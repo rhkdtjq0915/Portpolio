@@ -21,7 +21,7 @@ pre는 그대로 출력
 
 ![캡처6](https://user-images.githubusercontent.com/80075223/204142494-7a843763-70be-475e-bc73-694451631f56.PNG)
 
-
+# CSS 3가지 박스 유형 비교
 |인라인 박스(display:block)|인라인 박스(display:inline)|인라인 블록 박스(display:inline-block)|
 |---|---|---|
 |항상 새라인에서 시작|새라인에서 시작 못함 라인안(inline)에 있음|새라인에서 시작 못함 라인안(inline)에 있음|
@@ -29,6 +29,13 @@ pre는 그대로 출력
 |옆에 다른 요소 배치 불가능|옆에 다른 요소 배치 가능|옆에 다른 요소 배치 가능|
 |width와 geight으로 크기 조절|width와 height으로 크기 조절 불가능|width와 geight으로 크기 조절|
 |padding, border, margin조절 기능|margin-top, margin-bottom조절 불가능|padding, border, margin조절 불가능|
+
+# POSITION
+|속성|속성값|설명|
+|정적배치|static|요소를 문서의 흐름에 맞추어 배치. 위치지정이 필요없음|
+|상대배치|relative|이전요소에 저연스럽게 연결해 배치하되 위치를 지정할 수 있음|
+|절대배치|absolute|원하는 위치를 지정해 배치|
+|고정배치|fixed|지정한 위치에 고정해 배치. 화면에서 요소가 잘릴 수도 있다|
 
 인라인태그  
 + 내용과 앞뒤 태그의 내용을 같은 라인에 출력
