@@ -62,20 +62,11 @@ required
 .</form>
 ```
 
-GCP는 데이터 분석 및 AI 기술에 강점을 보이는 듯합니다. 
-1. 다른 MS 서비스 및 제품과 일관된 통합
-2. Linux 및 오픈 소스 애플리케이션 스택에 대한 많은 도움 제공
-3. 하이브리드 클라우드에 완벽한 솔루션
-4. 가상 환경에서 모두 잘 실행되는 사용 사례들
-   
 ------------------------------------------------------------------------------
    
 셀럭터 css 스타일 시트를 html 페이지에 적용하도록 만든 이름
 html 태그의 모양을 꾸밀 스타일 시트를 선택하는 기능
 
-css 참고 사이트
-bootstrap
-bulma
 
 p태그는 em의 부모 태그
 
@@ -95,8 +86,6 @@ z-index
 visibility
 overflow
 
-https://ambler.kr/css   css게임
-
 코드 스니펫
 
 # Javascript
@@ -104,9 +93,6 @@ https://ambler.kr/css   css게임
 마우스 올리면 onmouseover 마우스 나가면 onmouseout
 
 스크립트는 바디 제일 아래쪽에 있는게 좋다
-
-web tech camp  javascript 파트 유튜브 참고
-https://www.koreahtml5.kr/front/reference/referenceList.do?bbsId=BBS_00000000014 에서 교육자료
 
 변수 선언에는 기본적으로 const를 사용하고, 재할당이 필요한 경우에 한정해 let 을 사용하는 것이 좋다.
 Var : 중복 선언 가능 앵간하면 쓰지마라
@@ -159,6 +145,7 @@ concat 연결
 new 
  Object()이용
 리터럴 표기법 이용
+
 2.객체의 틀()
 
 ----------------------------------------------
@@ -181,7 +168,7 @@ DOM 트리의 특징
 브라우저가 html 태그를 화면에 그리는 과정
 
 렌더트리
-Browser의 Rendering_2. Render Tree의 생성 https://twofivezero.tistory.com/56
+Browser의 Rendering_2. Render Tree의 생성
 
 태그 콘텐츠 합쳐서 엘리멘트
 html 태그
@@ -203,6 +190,7 @@ open() close()
 문서의 동적 구성
 
 ----------------------------------------------------------------
+
 버튼 누르면 파일 다운로드 가능한 명령어
 <a href="" download=""><button>↓ Free Download</button>
 
