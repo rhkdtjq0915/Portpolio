@@ -26,6 +26,9 @@ pre는 그대로 출력
 |---|---|---|
 |항상 새라인에서 시작|새라인에서 시작 못함 라인안(inline)에 있음|새라인에서 시작 못함 라인안(inline)에 있음|
 |블록박스 내에만 배치|모든 박스 내 배치|모든 박스 내 배치|
+|옆에 다른 요소 배치 불가능|옆에 다른 요소 배치 가능|옆에 다른 요소 배치 가능|
+|width와 geight으로 크기 조절|width와 height으로 크기 조절 불가능|width와 geight으로 크기 조절|
+|padding, border, margin조절 기능|margin-top, margin-bottom조절 불가능|padding, border, margin조절 불가능|
 
 인라인태그  
 + 내용과 앞뒤 태그의 내용을 같은 라인에 출력
