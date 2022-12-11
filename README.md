@@ -220,6 +220,6 @@ open() close()
 |SKILLS|![3](https://user-images.githubusercontent.com/80075223/204162985-e2b14886-008e-4be7-b54f-5e68fd08ceed.PNG)
 |PORTFOLIO|![4](https://user-images.githubusercontent.com/80075223/204162993-2b13abb0-482c-4fe6-91dc-3f328f2693ab.PNG)
 
-[![다운로드](https://user-images.githubusercontent.com/80075223/206889308-71592395-1709-4d7a-b4a5-4faf3546e7dc.png)](https://rhkdtjq0915.github.io/Portpolio/)
-[![다운로드 (1)](https://user-images.githubusercontent.com/80075223/206889273-b0121949-0ae2-41df-a84a-cd3495fbcc02.png)](https://cerulean-blini-40f9b7.netlify.app)
+[![다운로드]([https://user-images.githubusercontent.com/80075223/206889308-71592395-1709-4d7a-b4a5-4faf3546e7dc.png](https://user-images.githubusercontent.com/80075223/206889575-c35fea05-f561-4139-945f-76ebc7ac27fa.png))](https://rhkdtjq0915.github.io/Portpolio/)
+[![다운로드 (1)]([https://user-images.githubusercontent.com/80075223/206889273-b0121949-0ae2-41df-a84a-cd3495fbcc02.png](https://user-images.githubusercontent.com/80075223/206889593-3f370ae0-30ea-4ec2-9e78-4d6ee32c013c.png))](https://cerulean-blini-40f9b7.netlify.app)
 
