@@ -187,15 +187,10 @@ dom트리에서 하나씩 찍어주는것 렌더링
 DOM 트리의 특징
 브라우저가 html 태그를 화면에 그리는 과정
 
-렌더트리
-Browser의 Rendering_2. Render Tree의 생성
-
 태그 콘텐츠 합쳐서 엘리멘트
 html 태그
 
 dom객체의 프로퍼티와 dom 객체사이의 관계
-
-com객체 다루기
 
 this
 
@@ -206,8 +201,6 @@ dom 트리에서 dom 객체 찾기
 document.write()
 
 open() close()
-
-문서의 동적 구성
 
 버튼 누르면 파일 다운로드 가능한 명령어   
 ``` <a href="#" download="#"><button>↓ Free Download</button> ``` 
