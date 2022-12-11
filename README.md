@@ -77,10 +77,8 @@ required
   .<input name="email" required />
   .<button type="submit">제출</button>
 .</form>
-```
+```   
 
-------------------------------------------------------------------------------
-   
 셀럭터 css 스타일 시트를 html 페이지에 적용하도록 만든 이름
 html 태그의 모양을 꾸밀 스타일 시트를 선택하는 기능
 
@@ -88,15 +86,26 @@ html 태그의 모양을 꾸밀 스타일 시트를 선택하는 기능
 한개만 지정할때 id
 
 margin 바깥
-padding 안쪽 여백
+padding 안쪽 여백   
+  
+z-index 속성은 위치 지정 요소와, 그 자손 또는 하위 플렉스 아이템의 Z축 순서를 지정합니다. 더 큰 z-index 값을 가진 요소가 작은 값의 요소 위를 덮습니다.  
+```
+/* 키워드 값 */
+z-index: auto;
 
-display
-position
-z-index
+/* <integer> 값 */
+z-index: 0;
+z-index: 3;
+z-index: 289;
+z-index: -1; /* 음수 값으로 우선순위를 낮출 수 있음 */
+
+/* 전역 값 */
+z-index: inherit;
+z-index: initial;
+z-index: unset;
+```   
 visibility
-overflow
-
-코드 스니펫   
+overflow   
 
 부드러운 스크롤 효과 추가   
 ```
