@@ -215,12 +215,11 @@ open() close()
 
 |Feature|Description|
 |:--:|:--:|
-|Pgge1|![1](https://user-images.githubusercontent.com/80075223/204162967-7ff4e882-a924-470e-9c81-5c75116eb36e.PNG)
-|Page2|![2](https://user-images.githubusercontent.com/80075223/204162977-0db6c820-b4ac-41c8-a5dd-d35810044ea4.PNG)
-|Page3|![3](https://user-images.githubusercontent.com/80075223/204162985-e2b14886-008e-4be7-b54f-5e68fd08ceed.PNG)
-|Page4|![4](https://user-images.githubusercontent.com/80075223/204162993-2b13abb0-482c-4fe6-91dc-3f328f2693ab.PNG)
+|ABOUT|![1](https://user-images.githubusercontent.com/80075223/204162967-7ff4e882-a924-470e-9c81-5c75116eb36e.PNG)
+|EDUCATION|![2](https://user-images.githubusercontent.com/80075223/204162977-0db6c820-b4ac-41c8-a5dd-d35810044ea4.PNG)
+|SKILLS|![3](https://user-images.githubusercontent.com/80075223/204162985-e2b14886-008e-4be7-b54f-5e68fd08ceed.PNG)
+|PORTFOLIO|![4](https://user-images.githubusercontent.com/80075223/204162993-2b13abb0-482c-4fe6-91dc-3f328f2693ab.PNG)   
 
-   
-GITHUB [here](https://rhkdtjq0915.github.io/Portpolio/)
+[GITHUB](https://rhkdtjq0915.github.io/Portpolio/)   
 
-NETLIFY [here](https://cerulean-blini-40f9b7.netlify.app)
+[NETLIFY](https://cerulean-blini-40f9b7.netlify.app)
