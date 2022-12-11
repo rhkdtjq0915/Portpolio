@@ -1,4 +1,4 @@
-># 목표는 성실한 프로그래머
+# 목표는 성실한 프로그래머
 >다루었던 언어
 - Python
 
@@ -21,7 +21,7 @@ pre는 그대로 출력
 
 ![캡처6](https://user-images.githubusercontent.com/80075223/204142494-7a843763-70be-475e-bc73-694451631f56.PNG)
 
-># CSS 3가지 박스 유형 비교
+#> CSS 3가지 박스 유형 비교
 |인라인 박스(display:block)|인라인 박스(display:inline)|인라인 블록 박스(display:inline-block)|
 |---|---|---|
 |항상 새라인에서 시작|새라인에서 시작 못함 라인안(inline)에 있음|새라인에서 시작 못함 라인안(inline)에 있음|
@@ -30,7 +30,7 @@ pre는 그대로 출력
 |width와 geight으로 크기 조절|width와 height으로 크기 조절 불가능|width와 geight으로 크기 조절|
 |padding, border, margin조절 기능|margin-top, margin-bottom조절 불가능|padding, border, margin조절 불가능|
 
-># POSITION
+# POSITION
 |속성|속성값|설명|
 |---|---|---|
 |정적배치|static|요소를 문서의 흐름에 맞추어 배치. 위치지정이 필요없음|
@@ -105,7 +105,7 @@ overflow
 
 코드 스니펫
 
-># Javascript
+# Javascript
 
 마우스 올리면 onmouseover 마우스 나가면 onmouseout
 
@@ -207,10 +207,11 @@ open() close()
 문서의 동적 구성
 
 버튼 누르면 파일 다운로드 가능한 명령어
-```<a href="" download=""><button>↓ Free Download</button>```
+``` <a href="#" download="#"><button>↓ Free Download</button> ``` 
+  
 ----------------------------------------------------------------
 
-># 나의 포트폴리오
+# 나의 포트폴리오
 
 |Feature|Description|
 |:--:|:--:|
