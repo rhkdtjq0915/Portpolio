@@ -21,7 +21,7 @@ pre는 그대로 출력
 
 ![캡처6](https://user-images.githubusercontent.com/80075223/204142494-7a843763-70be-475e-bc73-694451631f56.PNG)
 
-># CSS 3가지 박스 유형 비교
+#> CSS 3가지 박스 유형 비교
 |인라인 박스(display:block)|인라인 박스(display:inline)|인라인 블록 박스(display:inline-block)|
 |---|---|---|
 |항상 새라인에서 시작|새라인에서 시작 못함 라인안(inline)에 있음|새라인에서 시작 못함 라인안(inline)에 있음|
