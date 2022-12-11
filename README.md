@@ -19,7 +19,7 @@ html 없는 태그면 없는거랑 같다
 여러개 연속적인 화이티 캐릭터는 한칸으로 취급
 pre는 그대로 출력   
 
-#> CSS 3가지 박스 유형 비교
+># CSS 3가지 박스 유형 비교
 |인라인 박스(display:block)|인라인 박스(display:inline)|인라인 블록 박스(display:inline-block)|
 |---|---|---|
 |항상 새라인에서 시작|새라인에서 시작 못함 라인안(inline)에 있음|새라인에서 시작 못함 라인안(inline)에 있음|
@@ -28,7 +28,7 @@ pre는 그대로 출력
 |width와 geight으로 크기 조절|width와 height으로 크기 조절 불가능|width와 geight으로 크기 조절|
 |padding, border, margin조절 기능|margin-top, margin-bottom조절 불가능|padding, border, margin조절 불가능|
 
-# POSITION
+># POSITION
 |속성|속성값|설명|
 |---|---|---|
 |정적배치|static|요소를 문서의 흐름에 맞추어 배치. 위치지정이 필요없음|
