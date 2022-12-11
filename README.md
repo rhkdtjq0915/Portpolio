@@ -116,7 +116,16 @@ overflow
 html {
   scroll-behavior: smooth;
 }
-```
+```   
+order속성은 동일한 컨테이너 내의 나머지 유연한 항목에 상대적인 유연한 항목의 순서를 지정합니다
+```order: number|initial|inherit;```   
+align-self속성은 유연한 컨테이너 내에서 선택한 항목의 정렬을 지정합니다. align-self속성은 유연한 컨테이너의 align-items 속성을 재정의합니다.   
+```align-self: auto|stretch|center|flex-start|flex-end|baseline|initial|inherit```
+
+
+
+
+
 ----------------------------------------------------
 
 # Javascript
@@ -170,7 +179,7 @@ new
 
 ----------------------------------------------
 HTML DOM
-웹페이지에 작성된 GTML 태그 당 객체 생성
+웹페이지에 작성된 HTML 태그 당 객체 생성
 
 HTML DOM 트리
 HTML태그의 포함관계에 따라 dom 객체의 트리 생성
