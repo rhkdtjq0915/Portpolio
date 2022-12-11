@@ -219,5 +219,5 @@ open() close()
 |EDUCATION|![2](https://user-images.githubusercontent.com/80075223/204162977-0db6c820-b4ac-41c8-a5dd-d35810044ea4.PNG)
 |SKILLS|![3](https://user-images.githubusercontent.com/80075223/204162985-e2b14886-008e-4be7-b54f-5e68fd08ceed.PNG)
 |PORTFOLIO|![4](https://user-images.githubusercontent.com/80075223/204162993-2b13abb0-482c-4fe6-91dc-3f328f2693ab.PNG)
-|LINK|[GITHUB](https://rhkdtjq0915.github.io/Portpolio/)/[NETLIFY](https://cerulean-blini-40f9b7.netlify.app)|
-  
+|LINK|[![다운로드 (1)](https://user-images.githubusercontent.com/80075223/206889273-b0121949-0ae2-41df-a84a-cd3495fbcc02.png)](https://rhkdtjq0915.github.io/Portpolio/)/[NETLIFY](https://cerulean-blini-40f9b7.netlify.app)|
+
