@@ -96,9 +96,9 @@ z-index
 visibility
 overflow
 
-코드 스니펫
+코드 스니펫   
 
-부드러운 스크롤 효과 추가
+부드러운 스크롤 효과 추가   
 ```
 html {
   scroll-behavior: smooth;
@@ -207,7 +207,7 @@ open() close()
 
 문서의 동적 구성
 
-버튼 누르면 파일 다운로드 가능한 명령어
+버튼 누르면 파일 다운로드 가능한 명령어   
 ``` <a href="#" download="#"><button>↓ Free Download</button> ``` 
   
 ----------------------------------------------------------------
