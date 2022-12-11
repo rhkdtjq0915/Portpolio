@@ -84,18 +84,11 @@ required
 셀럭터 css 스타일 시트를 html 페이지에 적용하도록 만든 이름
 html 태그의 모양을 꾸밀 스타일 시트를 선택하는 기능
 
-
-p태그는 em의 부모 태그
-
 한개 이상을 지정할때 class
 한개만 지정할때 id
 
-strong 빈칸(띄어쓰기)
-
 margin 바깥
 padding 안쪽 여백
-
-윈도우+. 이모지
 
 display
 position
@@ -104,6 +97,12 @@ visibility
 overflow
 
 코드 스니펫
+
+부드러운 스크롤 효과 추가
+```html {
+  scroll-behavior: smooth;
+}```
+----------------------------------------------------
 
 # Javascript
 
